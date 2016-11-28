@@ -1,0 +1,29 @@
+
+long int btn_1 = 16724175;
+long int btn_2 = 16718055;
+long int btn_3 = 16743045;
+
+long int btn_4 = 16716015;
+long int btn_5 = 16726215;
+long int btn_6 = 16734885;
+
+long int btn_7 = 16728765;
+long int btn_8 = 16730805;
+long int btn_9 = 16732845;
+
+long int btn_0 = 16738455;
+long int btn_100 = 16750695;
+long int btn_200 = 16756815;
+
+
+long int btn_ch- = 16753245;
+long int btn_ch = 16736925;
+long int btn_ch+ = 16769565;
+
+long int btn_prev = 16720605;
+long int btn_next = 16712445;
+long int btn_play = 16761405;
+
+long int btn_- = 16769055;
+long int btn_+ = 16754775;
+long int btn_eq = 16748655;
